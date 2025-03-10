@@ -1,5 +1,4 @@
- Kullanıcı girişi (Login)
- Ürün arama ve filtreleme
- Sepete ürün ekleme
- Ödeme entegrasyonu
- Kullanıcı yorumları ve puanlama
+ 1. Kullanıcı girişi (Login)
+ 2. Ürün arama ve filtreleme
+ 3. Ödeme entegrasyonu
+ 4. Kullanıcı yorumları ve puanlama
