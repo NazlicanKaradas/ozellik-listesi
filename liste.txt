@@ -1,0 +1,4 @@
+ Kullanıcı girişi (Login)
+ Ürün arama ve filtreleme
+ Sepete ürün ekleme
+ Ödeme entegrasyonu
