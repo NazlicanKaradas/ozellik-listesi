@@ -2,3 +2,4 @@
  Ürün arama ve filtreleme
  Sepete ürün ekleme
  Ödeme entegrasyonu
+ Kullanıcı yorumları ve puanlama
