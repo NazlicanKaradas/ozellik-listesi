@@ -2,3 +2,4 @@
  2. Ürün arama ve filtreleme
  3. Ödeme entegrasyonu
  4. Kullanıcı yorumları ve puanlama
+
